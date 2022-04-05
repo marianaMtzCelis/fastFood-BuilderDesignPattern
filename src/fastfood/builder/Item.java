@@ -9,6 +9,7 @@ package fastfood.builder;
 /**
  *
  * @author marianamtzcelis
+ * Recuperado de: https://www.tutorialspoint.com/design_pattern/builder_pattern.htm
  */
 public interface Item {
    public String name();
